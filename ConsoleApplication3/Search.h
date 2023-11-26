@@ -3,6 +3,6 @@
 class Search
 {
 public:
-	void BynarySearch(std::vector<int> arr);
+	static int BynarySearch(std::vector<int> arr, int target);
 };
 
